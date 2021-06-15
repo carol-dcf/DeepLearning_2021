@@ -1,5 +1,9 @@
 # DeepLearning_2021
-Group 4 Deep Leaning Final Project: Image to Image Translation
+Deep Learning Final Project: Image to Image Translation
+Group 4:
+- Martina Carrés
+- Carolina del Corral
+- Daniel Roncel
 
 #### Dataset
 The dataset already preprocessed can be found on the following [link](https://drive.google.com/file/d/18-g-RB4fBA81LUFsr_btLVhDsJpmfOVg/view?usp=sharing).
